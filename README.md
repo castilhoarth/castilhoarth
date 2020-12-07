@@ -4,4 +4,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/castilhoarthur/)
 [![Gmail Badge](https://img.shields.io/badge/-castartx@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:castartx@gmail.com)](mailto:castartx@gmail.com)
 ### About me
-I'm a CIS student and i’m currently learning web development
+CIS student and currently learning web development
