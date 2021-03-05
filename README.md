@@ -8,4 +8,4 @@ CIS student and currently learning web development
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=castilhoarth&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castilhoarth&layout=compact)](https://github.com/castilhoarth/github-readme-stats)
+[![Arthur's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=castilhoarth)](https://github.com/castilhoarth/github-readme-stats)
