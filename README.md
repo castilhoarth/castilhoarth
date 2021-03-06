@@ -6,6 +6,7 @@
 ### About me
 CIS student and working with Angular + Kotlin
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=castilhoarth&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=castilhoarth&layout=compact&theme=radical)](https://github.com/castilhoarth)
+
 
